@@ -1,0 +1,28 @@
+2023-08-06 08:56:11.483499 - Initialized conversion of CBT995
+2023-08-06 08:56:13.238253 - Received CBT.V505.FILE995.PDS from FILE995.XMI 
+2023-08-06 08:56:13.240711 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:56:13.241770 - Found $LOADNL.jcl (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/$LOADNL
+2023-08-06 08:56:13.242632 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/$PDSLOAD
+2023-08-06 08:56:13.243606 - Found @FILE995.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/@FILE995
+2023-08-06 08:56:13.245263 - Found ASM.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/ASM
+2023-08-06 08:56:13.246178 - Found CNTL.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/CNTL
+2023-08-06 08:56:13.247495 - Found DOCLIB.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/DOCLIB
+2023-08-06 08:56:13.248473 - Found HELP.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/HELP
+2023-08-06 08:56:13.249300 - Found LIB2CNTL.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/LIB2CNTL
+2023-08-06 08:56:13.250326 - Found LIB2FIX.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/LIB2FIX
+2023-08-06 08:56:13.250332 - Found LIB2SRCE.bin containing application/octet-stream, moved to PDS/LIB2SRCE
+2023-08-06 08:56:13.254620 - Found MACLIB.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/MACLIB
+2023-08-06 08:56:13.255618 - Found MACLIB0.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/MACLIB0
+2023-08-06 08:56:13.256526 - Found MENUSF.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/MENUSF
+2023-08-06 08:56:13.257415 - Found MSGSF.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/MSGSF
+2023-08-06 08:56:13.257423 - Found OBJ.bin containing application/octet-stream, moved to PDS/OBJ
+2023-08-06 08:56:13.264466 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE995.PDS
+2023-08-06 08:56:13.272568   - Received RECFM=U data, stored XMIT file as CBT995/PDSLOAD.xmi
+2023-08-06 08:56:13.273592 - Found PROCS.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/PROCS
+2023-08-06 08:56:13.274556 - Found SYS2HELP.txt (text/plain) in CBT.V505.FILE995.PDS, moved to PDS/SYS2HELP
+2023-08-06 08:56:13.274564 - Found WYLBCMS.gz containing application/gzip, moved to PDS/WYLBCMS
+2023-08-06 08:56:13.275680 - Found WYLBTSO.gz containing application/gzip, moved to PDS/WYLBTSO
+2023-08-06 08:56:13.766082 - Found WYLMENUS.xmi (application/xmit) in CBT.V505.FILE995.PDS
+2023-08-06 08:56:13.858388   - Received to CBT995/WYLTSO.MENUS
+2023-08-06 08:56:13.877007 - Found WYLMSGS.xmi (application/xmit) in CBT.V505.FILE995.PDS
+2023-08-06 08:56:13.882682   - Received to CBT995/WYLTSO.MSGS
